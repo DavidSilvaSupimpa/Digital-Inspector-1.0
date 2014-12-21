@@ -54,7 +54,7 @@ body { background: #34495D; }
 
 @media screen and (max-width: 480px) {
 	body {background: #fff}
-	.logo img { width: 35%; height: auto; margin-top: 95px; }
+	.logo img { width: 25%; height: auto; margin-top: 95px; }
 	.formulario .btn { width: 35%; }
 	.img-user { margin-top: 5px; }
 	.campo-user { float: right; width: 88%; }
@@ -81,7 +81,7 @@ body { background: #34495D; }
 
 @media screen and (max-width: 992px) {
 	body {background: #fff}
-	.logo img { width: 35%; height: auto; margin-top: 95px; }
+	.logo img { width: 25%; height: auto; margin-top: 95px; }
 	.formulario .btn { width: 35%; }
 	.img-user { margin-top: 5px; }
 	.campo-user { float: right; width: 88%; }

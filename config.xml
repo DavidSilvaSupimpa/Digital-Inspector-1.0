@@ -40,30 +40,30 @@
     <gap:plugin name="org.apache.cordova.network-information" />
     <gap:plugin name="org.apache.cordova.splashscreen" />
     <gap:plugin name="org.apache.cordova.vibration" />
-    <icon src="imagens/DIGITAL INSPECTOR 3.png" />
-    <icon gap:platform="android" gap:qualifier="ldpi" src="imagens/DIGITAL INSPECTOR 3.png" />
-    <icon gap:platform="android" gap:qualifier="mdpi" src="imagens/DIGITAL INSPECTOR 3.png" />
-    <icon gap:platform="android" gap:qualifier="hdpi" src="imagens/DIGITAL INSPECTOR 3.png" />
-    <icon gap:platform="android" gap:qualifier="xhdpi" src="imagens/DIGITAL INSPECTOR 3.png" />
-    <icon gap:platform="blackberry" src="imagens/DIGITAL INSPECTOR 3.png" />
-    <icon gap:platform="blackberry" gap:state="hover" src="imagens/DIGITAL INSPECTOR 3.png" />
-    <icon gap:platform="ios" height="57" src="imagens/DIGITAL INSPECTOR 3.png" width="57" />
-    <icon gap:platform="ios" height="72" src="imagens/DIGITAL INSPECTOR 3.png" width="72" />
-    <icon gap:platform="ios" height="114" src="imagens/DIGITAL INSPECTOR 3.png" width="114" />
-    <icon gap:platform="ios" height="144" src="imagens/DIGITAL INSPECTOR 3.png" width="144" />
-    <icon gap:platform="webos" src="imagens/DIGITAL INSPECTOR 3.png" />
-    <icon gap:platform="winphone" src="imagens/DIGITAL INSPECTOR 3.png" />
-    <icon gap:platform="winphone" gap:role="background" src="imagens/DIGITAL INSPECTOR 3.png" />
-    <gap:splash gap:platform="android" gap:qualifier="port-ldpi" src="imagens/DIGITAL INSPECTOR 3.png" />
-    <gap:splash gap:platform="android" gap:qualifier="port-mdpi" src="imagens/DIGITAL INSPECTOR 3.png" />
-    <gap:splash gap:platform="android" gap:qualifier="port-hdpi" src="imagens/DIGITAL INSPECTOR 3.png" />
-    <gap:splash gap:platform="android" gap:qualifier="port-xhdpi" src="imagens/DIGITAL INSPECTOR 3.png" />
-    <gap:splash gap:platform="blackberry" src="imagens/DIGITAL INSPECTOR 3.png" />
-    <gap:splash gap:platform="ios" height="480" src="imagens/DIGITAL INSPECTOR 3.png" width="320" />
-    <gap:splash gap:platform="ios" height="960" src="imagens/DIGITAL INSPECTOR 3.png" width="640" />
-    <gap:splash gap:platform="ios" height="1136" src="imagens/DIGITAL INSPECTOR 3.png" width="640" />
-    <gap:splash gap:platform="ios" height="1024" src="imagens/DIGITAL INSPECTOR 3.png" width="768" />
-    <gap:splash gap:platform="ios" height="768" src="imagens/DIGITAL INSPECTOR 3.png" width="1024" />
-    <gap:splash gap:platform="winphone" src="imagens/DIGITAL INSPECTOR 3.png" />
+    <icon src="imagens/logomarca Digital inspector.png" />
+    <icon gap:platform="android" gap:qualifier="ldpi" src="imagens/logomarca Digital inspector.png" />
+    <icon gap:platform="android" gap:qualifier="mdpi" src="imagens/logomarca Digital inspector.png" />
+    <icon gap:platform="android" gap:qualifier="hdpi" src="imagens/logomarca Digital inspector.png" />
+    <icon gap:platform="android" gap:qualifier="xhdpi" src="imagens/logomarca Digital inspector.png" />
+    <icon gap:platform="blackberry" src="imagens/logomarca Digital inspector.png" />
+    <icon gap:platform="blackberry" gap:state="hover" src="imagens/logomarca Digital inspector.png" />
+    <icon gap:platform="ios" height="57" src="imagens/logomarca Digital inspector.png" width="57" />
+    <icon gap:platform="ios" height="72" src="imagens/logomarca Digital inspector.png" width="72" />
+    <icon gap:platform="ios" height="114" src="imagens/logomarca Digital inspector.png" width="114" />
+    <icon gap:platform="ios" height="144" src="imagens/logomarca Digital inspector.png" width="144" />
+    <icon gap:platform="webos" src="imagens/logomarca Digital inspector.png" />
+    <icon gap:platform="winphone" src="imagens/logomarca Digital inspector.png" />
+    <icon gap:platform="winphone" gap:role="background" src="imagens/logomarca Digital inspector.png" />
+    <gap:splash gap:platform="android" gap:qualifier="port-ldpi" src="imagens/logomarca Digital inspector.png" />
+    <gap:splash gap:platform="android" gap:qualifier="port-mdpi" src="imagens/logomarca Digital inspector.png" />
+    <gap:splash gap:platform="android" gap:qualifier="port-hdpi" src="imagens/logomarca Digital inspector.png" />
+    <gap:splash gap:platform="android" gap:qualifier="port-xhdpi" src="imagens/logomarca Digital inspector.png" />
+    <gap:splash gap:platform="blackberry" src="imagens/logomarca Digital inspector.png" />
+    <gap:splash gap:platform="ios" height="480" src="imagens/logomarca Digital inspector.png" width="320" />
+    <gap:splash gap:platform="ios" height="960" src="imagens/logomarca Digital inspector.png" width="640" />
+    <gap:splash gap:platform="ios" height="1136" src="imagens/logomarca Digital inspector.png" width="640" />
+    <gap:splash gap:platform="ios" height="1024" src="imagens/logomarca Digital inspector.png" width="768" />
+    <gap:splash gap:platform="ios" height="768" src="imagens/logomarca Digital inspector.png" width="1024" />
+    <gap:splash gap:platform="winphone" src="imagens/logomarca Digital inspector.png" />
     <access origin="*" />
 </widget>
